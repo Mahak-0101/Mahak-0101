@@ -1,107 +1,75 @@
-<!-- Cyberpunk Futuristic GitHub Profile - Mahak Saxena -->
-
-<!-- 🔥 Futuristic City Cyberpunk Banner (will be replaced with custom Mahaktech Banner later) -->
+<!-- Futuristic Cyber Banner -->
 <p align="center">
-  <img src="https://i.postimg.cc/G2jpwcns/cyberpunk-green-banner.jpg" width="100%" />
+  <img src="https://wallpapers.com/images/hd/futuristic-city-background-29zn6ae47bfushb7.jpg"
+       width="100%" alt="Futuristic City Banner"/>
 </p>
 
+<h1 align="center">🚀 Mahak Saxena</h1>
+<h3 align="center">Founder & CEO of Mahaktech | Future Builder 🧠⚡</h3>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=10FFB4&size=32&center=true&vCenter=true&width=900&lines=Mahak+Saxena+🚀+CEO+%7C+Founder+of+Mahaktech;Building+the+Future+with+Code+and+Innovation;Tech+Leader+Driven+to+Make+Parents+Proud;Turning+Vision+into+Reality+✨">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=00ffea&center=true&vCenter=true&width=600&lines=Innovator+%7C+Developer+%7C+Leader;Building+Future+Tech;Smart+Ideas+Smart+Solutions" alt="Typing SVG" />
 </p>
 
-<div align="center">
+---
 
-<img src="https://img.shields.io/badge/CEO-Mahaktech-10FFB4?style=for-the-badge&logo=googletasks&logoColor=000" />
-<img src="https://img.shields.io/badge/Founder-Tech%20Innovator-000000?style=for-the-badge&logo=rocket&logoColor=10FFB4" />
+## 👨‍💻 About Me
+Hey! I’m **Mahak Saxena** — a young entrepreneur building technology that **helps people** and **shapes the future**.  
+I believe in **traditional values** + **modern innovation**.  
+Each step is toward making my parents proud 🤝❤️
 
-</div>
+> “Think traditionally. Create futuristically.”
 
 ---
 
-### 🧬 About Me
+## 🛠️ My Skills
 
-> A passionate leader building futuristic solutions while staying rooted in values.
-
-- 👨‍💻 Full-Stack Developer  
-- 🤖 IoT & Future Product Innovator  
-- 🎯 Entrepreneur with unstoppable ambition  
-- 🚀 Mission: **Make my parents proud with my success**  
-- 🇮🇳 Proud Indian, building for the future  
-
----
-
-### 🌐 Connect with Me
-
-<div align="center">
-  <a href="https://linkedin.com/in/mahak-saxena-658556385"><img src="https://img.shields.io/badge/LinkedIn-Mahak%20Saxena-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:mahaksaxena2007@gmail.com"><img src="https://img.shields.io/badge/Private%20Email-10FFB4?style=for-the-badge&logo=gmail&logoColor=black"></a>
-  <a href="mailto:saxenamahak612@gmail.com"><img src="https://img.shields.io/badge/Company%20Email-000000?style=for-the-badge&logo=gmail&logoColor=10FFB4"></a>
-  <a href="https://mahak-0101.github.io/my-portfolio/"><img src="https://img.shields.io/badge/Portfolio-Web-10FFB4?style=for-the-badge&logo=firefoxbrowser&logoColor=black"></a>
-</div>
+| Domain | Tools / Tech |
+|--------|--------------|
+| **Web Dev** | HTML, CSS, JavaScript, React |
+| **Backend** | Node.js, Express |
+| **IoT** | Arduino, ESP Boards, Sensors |
+| **Design + Tools** | Git, VS Code, Canva |
+| **Soft Skills** | Leadership, Client Communication |
 
 ---
 
-### ⚡ Tech Arsenal
+## 🌐 Connect with Me
 
-<div align="center">
-  
-| Languages | Tools | Fields |
-|----------|-------|--------|
-| Python | GitHub | IoT Projects |
-| JavaScript | VS Code | Smart Innovations |
-| HTML & CSS | Arduino | Web Development |
-| C & C++ | Linux | Automation |
-
-</div>
+<p align="center">
+  <a href="mailto:mahaksaxena2007@gmail.com"><img src="https://img.shields.io/badge/Email(Personal)-0078D4?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:saxenamahak612@gmail.com"><img src="https://img.shields.io/badge/Email(Company)-C71610?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://linkedin.com/in/mahak-saxena-658556385"><img src="https://img.shields.io/badge/LinkedIn-Mahak_Saxena-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://mahak-0101.github.io/my-portfolio/"><img src="https://img.shields.io/badge/Portfolio-visit-brightgreen?style=for-the-badge&logo=github"></a>
+</p>
 
 ---
 
-### 🔥 Highlight Projects
+## 🔥 Latest Projects
 
-- ✅ Smart Curtain (IoT + Automation)
-- ✅ Professional Portfolio Website
-- ✅ Brand Digital Development and Tech Support
-
-> “I don’t follow the future — I create it.”
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api?username=mahak-0101&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mahak-0101&theme=tokyonight&hide_border=true" width="48%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahak-0101&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
+| Project | Tech | Description |
+|--------|------|-------------|
+| Smart Curtain | Arduino + LDR + Servo | Auto-light responsive smart system |
+| Gesture-to-Voice Device | AI + IoT | Helping specially-abled people communicate |
+| Personal Portfolio | HTML + CSS + JS | My professional online presence |
 
 ---
 
-### 🛡 Cyberpunk Contribution Grid
+## ⚡ GitHub Stats
 
-<div align="center">
-  
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mahak-0101&theme=react-dark&hide_border=true&area=true&bg_color=000000&line=10FFB4&point=FFFFFF&area_color=10FFB4" />
-
-</div>
-
----
-
-### 🎮 Fun Tech Animation
-
-<div align="center">
-  
-<img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="500" />
-
-</div>
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mahak-0101&show_icons=true&theme=tokyonight"/>
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=mahak-0101&theme=tokyonight"/>
+</p>
 
 ---
 
-### 🏁 Final Words
+## 🎯 Vision
+I am building **Mahaktech** — a brand that will transform ideas into reality.  
+Not just a company… a future legacy 👑✨
 
-> 🌟 “My identity is innovation. My goal is impact.”  
-> 🚀 “Coding today, leading tomorrow.”
+> “The world remembers those who build.”
 
-<p align="center">Made with ❤️, discipline, and ambition</p>
+<p align="center">
+  <b>💚 Thanks for visiting! Let’s build the future together 🚀</b>
+</p>
