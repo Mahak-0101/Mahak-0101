@@ -1,94 +1,102 @@
-<!-- Futuristic Header -->
-<h1 align="center">✨ Mahak Saxena 🚀</h1>
-<h3 align="center">CEO | President | Founder of Mahaktech</h3>
-<p align="center">Innovation with Tradition | Smart Solutions for a Smarter World</p>
+<!-- Cyberpunk Futuristic GitHub Profile - Mahak Saxena -->
 
----
-
-<!-- Banner Style Personal Motto -->
 <p align="center">
-🛠 Building Technology 💡 Honoring Values 🙏 Making Parents Proud
+  <img src="https://readme-typing-svg.herokuapp.com?color=10FFB4&size=32&center=true&vCenter=true&width=900&lines=Mahak+Saxena+🚀+CEO+%7C+Founder+of+Mahaktech;Building+the+Future+with+Code+and+Innovation;Tech+Leader+Driven+to+Make+Parents+Proud;Turning+Vision+into+Reality+✨">
 </p>
 
----
+<div align="center">
 
-### 👑 Who I Am
+<img src="https://img.shields.io/badge/CEO-Mahaktech-10FFB4?style=for-the-badge&logo=googletasks&logoColor=000" />
+<img src="https://img.shields.io/badge/Founder-Tech%20Innovator-000000?style=for-the-badge&logo=rocket&logoColor=10FFB4" />
 
-<table>
-<tr><td>
-
-💼 Leading **Mahaktech** with a dream of global impact  
-🔭 Innovating in **IoT | Automation | Full Stack**  
-✨ Turning everyday problems into futuristic solutions  
-🔥 A believer in *consistency, courage, and creativity*  
-🎯 Mission: **Accessible Tech for Every Family**  
-
-</td><td>
-
-<!-- Futuristic Badge Panel -->
-<p align="center">
-<img src="https://img.shields.io/badge/Founder-Mahaktech-blue?style=for-the-badge" />
-<br>
-<img src="https://img.shields.io/badge/Innovation-100%25-brightgreen?style=flat-square" />
-<br>
-<img src="https://img.shields.io/badge/Goal-Make%20Parents%20Proud-red" />
-</p>
-
-</td></tr>
-</table>
+</div>
 
 ---
 
-### ⚙️ Tech Craftsmanship
+### 🧬 About Me
 
-| Domain | Skills |
-|--------|--------|
-| 💻 Full-Stack | HTML • CSS • JS • React |
-| 🤖 IoT & Embedded | Arduino • ESP32 • Sensors • Automation |
-| 🛍 E-Commerce | Shopify Custom Stores |
-| 🎨 Creative Design | UI/UX • Branding • Figma • Canva |
+> A passionate leader building futuristic solutions while staying rooted in values.
+
+- 👨‍💻 Full-Stack Developer  
+- 🤖 IoT & Innovative Product Creator  
+- 🎯 Entrepreneur with big dreams  
+- 🇮🇳 Proud Indian  
+- 🚀 Mission: **Make my parents proud with my success**
 
 ---
 
-### 🚀 Signature Creations
+### 🌐 Connect with Me
 
-#### 🏢 Mahaktech Portfolio Website  
+<div align="center">
+  <a href="https://linkedin.com/in/mahak-saxena-658556385"><img src="https://img.shields.io/badge/LinkedIn-Mahak%20Saxena-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:mahaksaxena2007@gmail.com"><img src="https://img.shields.io/badge/Private%20Email-10FFB4?style=for-the-badge&logo=gmail&logoColor=black"></a>
+  <a href="mailto:saxenamahak612@gmail.com"><img src="https://img.shields.io/badge/Company%20Email-000000?style=for-the-badge&logo=gmail&logoColor=10FFB4"></a>
+  <a href="https://mahak-0101.github.io/my-portfolio/"><img src="https://img.shields.io/badge/Portfolio-Web-10FFB4?style=for-the-badge&logo=firefoxbrowser&logoColor=black"></a>
+</div>
 
-::contentReference[oaicite:0]{index=0}
+---
+
+### ⚡ Tech Arsenal
+<div align="center">
   
-👉 https://mahak-tech-05.github.io/mahaktech-portfolio.io/
+| Languages | Tools | Fields |
+|----------|-------|--------|
+| Python | GitHub | IoT Projects |
+| JavaScript | VS Code | Smart Innovations |
+| HTML & CSS | Arduino | Web Development |
+| C & C++ | Linux | Automation |
+
+</div>
 
 ---
 
-#### 🛋 Smart Curtain — IoT Home Automation  
+### 🔥 My Portfolio Highlights
 
-::contentReference[oaicite:1]{index=1}
+- ✅ Smart Curtain (IoT + Automation)
+- ✅ Professional Portfolio Website
+- ✅ Helping brands build digital presence
+
+> “I don’t follow the future — I create it.”
+
+---
+
+### 📊 Performance & Stats
+
+<div align="center">
   
-✅ Budget-friendly | ✅ Voice-enabled concept | ✅ Day-light controlled  
+<img src="https://github-readme-stats.vercel.app/api?username=mahak-0101&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mahak-0101&theme=tokyonight&hide_border=true" width="48%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahak-0101&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
 
 ---
 
-### 📊 Innovation Progress & Growth
+### 🛡 Cyberpunk Contribution Grid
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=mahaktech-05&theme=radical" /> <br>
-<img src="https://github-readme-stats.vercel.app/api?username=mahaktech-05&show_icons=true&theme=tokyonight" /> <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahaktech-05&layout=compact&theme=tokyonight" />
-</p>
+<div align="center">
+  
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mahak-0101&theme=react-dark&hide_border=true&area=true&bg_color=000000&line=10FFB4&point=FFFFFF&area_color=10FFB4" />
 
----
-
-### 🌍 Let’s Build Tomorrow Together
-
-<p align="center">
-<a href="https://www.linkedin.com/in/mahak-tech" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
-<a href="mailto:mahaktechit@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail"></a>
-<a href="https://github.com/mahaktech-05" target="_blank"><img src="https://img.shields.io/badge/GitHub-Mahaktech-black?style=for-the-badge&logo=github"></a>
-</p>
+</div>
 
 ---
 
-### 🏆 Personal Vision
-> “May my work speak for me — may my success honor my parents.”
+### 🎮 Fun Tech Animation
 
-🌟 *If something inspired you here, a ⭐ would mean a lot!*
+<div align="center">
+  
+<img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="500" />
+
+</div>
+
+---
+
+### 🏁 Final Words
+
+> 🌟 “My identity is innovation. My goal is impact.”  
+> 🚀 “Coding today, leading tomorrow.”
+
+<p align="center">Made with ❤️ and unstoppable ambition</p>
+
