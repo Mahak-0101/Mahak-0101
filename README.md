@@ -1,5 +1,10 @@
 <!-- Cyberpunk Futuristic GitHub Profile - Mahak Saxena -->
 
+<!-- 🔥 Futuristic City Cyberpunk Banner (will be replaced with custom Mahaktech Banner later) -->
+<p align="center">
+  <img src="https://i.postimg.cc/G2jpwcns/cyberpunk-green-banner.jpg" width="100%" />
+</p>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=10FFB4&size=32&center=true&vCenter=true&width=900&lines=Mahak+Saxena+🚀+CEO+%7C+Founder+of+Mahaktech;Building+the+Future+with+Code+and+Innovation;Tech+Leader+Driven+to+Make+Parents+Proud;Turning+Vision+into+Reality+✨">
 </p>
@@ -18,10 +23,10 @@
 > A passionate leader building futuristic solutions while staying rooted in values.
 
 - 👨‍💻 Full-Stack Developer  
-- 🤖 IoT & Innovative Product Creator  
-- 🎯 Entrepreneur with big dreams  
-- 🇮🇳 Proud Indian  
-- 🚀 Mission: **Make my parents proud with my success**
+- 🤖 IoT & Future Product Innovator  
+- 🎯 Entrepreneur with unstoppable ambition  
+- 🚀 Mission: **Make my parents proud with my success**  
+- 🇮🇳 Proud Indian, building for the future  
 
 ---
 
@@ -37,6 +42,7 @@
 ---
 
 ### ⚡ Tech Arsenal
+
 <div align="center">
   
 | Languages | Tools | Fields |
@@ -50,17 +56,17 @@
 
 ---
 
-### 🔥 My Portfolio Highlights
+### 🔥 Highlight Projects
 
 - ✅ Smart Curtain (IoT + Automation)
 - ✅ Professional Portfolio Website
-- ✅ Helping brands build digital presence
+- ✅ Brand Digital Development and Tech Support
 
 > “I don’t follow the future — I create it.”
 
 ---
 
-### 📊 Performance & Stats
+### 📊 GitHub Stats
 
 <div align="center">
   
@@ -98,5 +104,4 @@
 > 🌟 “My identity is innovation. My goal is impact.”  
 > 🚀 “Coding today, leading tomorrow.”
 
-<p align="center">Made with ❤️ and unstoppable ambition</p>
-
+<p align="center">Made with ❤️, discipline, and ambition</p>
