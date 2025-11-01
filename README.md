@@ -1,64 +1,94 @@
-<h1 align="center">👋 Hey, I'm <span style="color:#f52c73;">Mahak Saxena</span></h1>
-<h3 align="center">CEO • President • Founder | Innovating Today for a Smarter Tomorrow 🚀</h3>
+<!-- Futuristic Header -->
+<h1 align="center">✨ Mahak Saxena 🚀</h1>
+<h3 align="center">CEO | President | Founder of Mahaktech</h3>
+<p align="center">Innovation with Tradition | Smart Solutions for a Smarter World</p>
 
 ---
 
-### 🌟 About Me
-- 🔭 Currently building **Mahaktech**
-- 🎯 Mission: Transforming ideas into intelligent solutions
-- 🎓 Passionate in **IoT | AI | Full Stack | Automation**
-- 💡 I believe in blending traditional values with futuristic innovation
-- 🙏 Working hard to make my parents proud
-
----
-
-### 🛠 Skills & Expertise
-
-#### 🚀 Full Stack Development
-- HTML | CSS | JavaScript | React | Bootstrap
-
-#### 🧠 Embedded & IoT
-- Arduino | ESP32 | Sensors | robotics projects
-
-#### 🛒 E-Commerce Websites
-- Shopify | Custom Store Development
-
-#### 🎨 Designing
-- UI/UX | Canva | Figma
-
----
-
-### 📌 Featured Projects
-
-#### 🔹 Mahaktech Portfolio Website
-
-::contentReference[oaicite:0]{index=0}
-  
-✨ My company portfolio website showcasing services & achievements  
-🔗 https://mahak-tech-05.github.io/mahaktech-portfolio.io/
-
-#### 🔹 Smart Home Automation Systems
-
-::contentReference[oaicite:1]{index=1}
-  
-✔ IoT-based automation using Arduino, LDR & servo motors  
-🔬 Making tech affordable & practical
-
----
-
-### 🤝 Let’s Connect & Build Together
-<p align="left">
-<a href="https://www.linkedin.com/in/mahak-tech" target="_blank">LinkedIn</a> • 
-<a href="https://github.com/mahaktech-05" target="_blank">GitHub</a> • 
-<a href="mailto:mahaksaxena2007@gmail.com">Email Me</a>
+<!-- Banner Style Personal Motto -->
+<p align="center">
+🛠 Building Technology 💡 Honoring Values 🙏 Making Parents Proud
 </p>
 
 ---
 
-### 🏆 Vision
-> “Creating value through technology — proudly, ethically, and fearlessly.”
+### 👑 Who I Am
+
+<table>
+<tr><td>
+
+💼 Leading **Mahaktech** with a dream of global impact  
+🔭 Innovating in **IoT | Automation | Full Stack**  
+✨ Turning everyday problems into futuristic solutions  
+🔥 A believer in *consistency, courage, and creativity*  
+🎯 Mission: **Accessible Tech for Every Family**  
+
+</td><td>
+
+<!-- Futuristic Badge Panel -->
+<p align="center">
+<img src="https://img.shields.io/badge/Founder-Mahaktech-blue?style=for-the-badge" />
+<br>
+<img src="https://img.shields.io/badge/Innovation-100%25-brightgreen?style=flat-square" />
+<br>
+<img src="https://img.shields.io/badge/Goal-Make%20Parents%20Proud-red" />
+</p>
+
+</td></tr>
+</table>
 
 ---
 
-⭐ **If you like my work, consider giving a star!**  
-Thank you for visiting 😊
+### ⚙️ Tech Craftsmanship
+
+| Domain | Skills |
+|--------|--------|
+| 💻 Full-Stack | HTML • CSS • JS • React |
+| 🤖 IoT & Embedded | Arduino • ESP32 • Sensors • Automation |
+| 🛍 E-Commerce | Shopify Custom Stores |
+| 🎨 Creative Design | UI/UX • Branding • Figma • Canva |
+
+---
+
+### 🚀 Signature Creations
+
+#### 🏢 Mahaktech Portfolio Website  
+
+::contentReference[oaicite:0]{index=0}
+  
+👉 https://mahak-tech-05.github.io/mahaktech-portfolio.io/
+
+---
+
+#### 🛋 Smart Curtain — IoT Home Automation  
+
+::contentReference[oaicite:1]{index=1}
+  
+✅ Budget-friendly | ✅ Voice-enabled concept | ✅ Day-light controlled  
+
+---
+
+### 📊 Innovation Progress & Growth
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=mahaktech-05&theme=radical" /> <br>
+<img src="https://github-readme-stats.vercel.app/api?username=mahaktech-05&show_icons=true&theme=tokyonight" /> <br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahaktech-05&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 🌍 Let’s Build Tomorrow Together
+
+<p align="center">
+<a href="https://www.linkedin.com/in/mahak-tech" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
+<a href="mailto:mahaktechit@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail"></a>
+<a href="https://github.com/mahaktech-05" target="_blank"><img src="https://img.shields.io/badge/GitHub-Mahaktech-black?style=for-the-badge&logo=github"></a>
+</p>
+
+---
+
+### 🏆 Personal Vision
+> “May my work speak for me — may my success honor my parents.”
+
+🌟 *If something inspired you here, a ⭐ would mean a lot!*
