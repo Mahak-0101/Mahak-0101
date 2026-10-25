@@ -246,9 +246,11 @@ For me, success is not just about titles or recognition. It is about building us
   <img src="https://img.shields.io/badge/PROGRESS-OVER_PERFECTION-C5A46D?style=flat-square&labelColor=171717" alt="Progress over perfection"/>
   <br/><br/>
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=mahak-0101&show_icons=true&hide_border=true&bg_color=080A10&title_color=C5A46D&icon_color=4169E1&text_color=E8E5DF" alt="GitHub statistics"/>
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=mahak-0101&theme=transparent&hide_border=true&background=080A10&ring=4169E1&fire=C5A46D&currStreakLabel=C5A46D&sideLabels=E8E5DF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=999999" alt="GitHub contribution streak"/>
+  <img height="165" src="https://streak-stats.demolab.com/?user=mahak-0101&theme=dark&hide_border=true&background=080A10&ring=4169E1&fire=C5A46D&currStreakLabel=C5A46D&sideLabels=E8E5DF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=999999" alt="GitHub contribution streak"/>
   <br/><br/>
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=mahak-0101&bg_color=080A10&color=E8E5DF&line=4169E1&point=C5A46D&area=true&hide_border=true" alt="GitHub activity graph"/>
+  <a href="https://github.com/mahak-0101?tab=overview">
+    <img src="https://img.shields.io/badge/VIEW_GITHUB_ACTIVITY-4169E1?style=for-the-badge&logo=github&logoColor=E8E5DF&labelColor=080A10" alt="View GitHub activity"/>
+  </a>
 </div>
 
 ---
